@@ -1,0 +1,26 @@
+# Ignore Windows system files
+*.xml
+*.ini
+NTUSER.*
+AMDRM_Install.log
+
+# Ignore specific folders and directories
+.anaconda/
+.android/
+.bash_history
+.conda/
+.continuum/
+.expo/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.matplotlib/
+.node_repl_history
+.vscode/
+.ssh/
+AppData/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
